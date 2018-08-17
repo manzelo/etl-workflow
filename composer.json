@@ -1,10 +1,10 @@
 {
-    "name" : "bookeen/etl-workflow",
+    "name" : "bdai/etl-workflow",
     "description" : "Extract-Transform-Load workflow library",
     "type" : "library",
     "authors" : [{
-        "name" : "frederic oudry",
-        "email" : "frederico@bookeen.com"
+        "name" : "Bang DAI",
+        "email" : "bang.dai2@gmail.com"
     }],
     "keywords" : [
         "Extract-Transform-Load ETL workflow symfony"
