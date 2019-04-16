@@ -9,17 +9,4 @@ namespace Bookeen\ETLWorkflow\Context;
  */
 interface ContextInterface
 {
-    /**
-     * @param String $key
-     * @return mixed
-     */
-    public function getData($key);
-
-    /**
-     * you should verify the key here to be sur that you only have what you accept.
-     * @param string $key
-     * @param $val
-     * @return mixed
-     */
-    public function setData($key, $val);
 }
