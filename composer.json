@@ -1,5 +1,5 @@
 {
-    "name" : "bdai/etl-workflow",
+    "name" : "enrj/etl-workflow",
     "description" : "Extract-Transform-Load workflow library",
     "type" : "library",
     "authors" : [{
