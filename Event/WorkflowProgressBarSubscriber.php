@@ -17,7 +17,7 @@ class WorkflowProgressBarSubscriber implements EventSubscriberInterface
         $this->progressBar->setFormat('debug');
     }
 
-    static public function getSubscribedEvents(): array
+    static public function getSubscribedEvents()
     {
         return array(
             WorkflowEvent::WORKFLOW_START => array('onStart', 1),
